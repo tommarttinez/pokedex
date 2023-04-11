@@ -1,3 +1,3 @@
 # pokedex
 
-https://statuesque-longma-c1d7e0.netlify.app/
+https://funny-kashata-607d28.netlify.app/
